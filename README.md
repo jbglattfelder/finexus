@@ -1,3 +1,3 @@
 # BigDataFinance Winter School Tutorial
 
-See README/ directory
+See doc.pdf in README/ directory
