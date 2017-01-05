@@ -14,7 +14,7 @@
  * 2017
  * 
  * Dependencies:
- * 			Graph database: Neo4j version 2.3.8 https://neo4j.com/download/other-releases/
+ * 		Graph database: Neo4j version 2.3.8 https://neo4j.com/download/other-releases/
  * 
  * Built using Oracle's Java 7 on Ubuntu Trusty
  */
