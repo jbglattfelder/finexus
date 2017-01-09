@@ -7,7 +7,7 @@ See doc.pdf in README/ directory
 1. Grab code:
     * ```git clone https://github.com/jbglattfelder/finexus.git```
 2. Neo4j preliminary:
-    1. NB: Version 3.X only works with Java 8: This code is for verssion 2.3.8 with Java 7
+    1. NB: Version 3.X only works with Java 8: This code is for version 2.3.8 with Java 7
     2. Download: https://neo4j.com/download/other-releases/
 3. Neo4j embedded Java:
     1. Eclipse IDE https://eclipse.org/downloads/packages/eclipse-ide-java-developers/neon2
@@ -21,4 +21,4 @@ See doc.pdf in README/ directory
     2. ```neo4j-start``` and ```neo4j-shell```
     3. See code examples in *finexus/Cypher/* directory
 5. Matlab and CSV: Data examples from Orbis and Matlab code in *finexus/Matlab/* directory
-  * *Output/* directory contains parsed CSV files for Gephi and a layout example
+  * *Output/* directory contains parsed CSV files for Gephi (https://gephi.org/) and a layout example
